@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome 👋🏾
 
-![](https://komarev.com/ghpvc/?username=colla00&color=yellow&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=colla00&color=blue&style=for-the-badge)
 
 <!--
 **colla00/colla00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
