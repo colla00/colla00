@@ -1,4 +1,5 @@
-### Welcome 👋🏾, let's connect at info@continualtechsoultions.com
+### Welcome 👋🏾...
+Let's Connect at **info@continualtechsoultions.com**
 
 ![](https://komarev.com/ghpvc/?username=colla00&color=blue&style=for-the-badge)
 
