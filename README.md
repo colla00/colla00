@@ -1,5 +1,5 @@
 ### Welcome 👋🏾
-Let's Connect at **info@alexiscollier.com** !
+Let's Connect at **info@continualtechsolutions.com** !
 
 ![](https://komarev.com/ghpvc/?username=colla00&color=blue&style=for-the-badge)
 
