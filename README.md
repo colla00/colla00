@@ -1,19 +1,18 @@
-### Welcome 👋🏾
-Let's Connect at **info@continualtechsolutions.com** !
+<h1 align="center"> Welcome 👋🏾 </h1>
+<p>
+    <p align="center">
+  <strong>💡 I am a problem solver and a lifelong learner; ask me about anything! I am always happy to help!</strong>
+</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/ctechsolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ctechsolutions" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexiscollier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexiscollier" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21957441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21957441" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ctechsolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ctechsolutions" height="30" width="40" /></a>
+<a href="https://medium.com/@alexisceo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alexisceo" height="30" width="40" /></a>
+</p>
+<br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=colla00&show_icons=true&locale=en" alt="colla00" /></p> <br><br>
 
 ![](https://komarev.com/ghpvc/?username=colla00&color=blue&style=for-the-badge)
 
-<!--
-**colla00/colla00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
