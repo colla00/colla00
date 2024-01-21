@@ -1,8 +1,9 @@
 <h1 align="center"> Welcome 👋🏾 </h1>
 <p>
-    <p align="center">
-  <strong>💡 I am a problem solver and a lifelong learner; ask me about anything! I am always happy to help!</strong>
+   <p align="center">
+  <strong>💡 I am a problem solver and a lifelong learner; ask me about anything! I am always happy to help on <a href="https://www.upwork.com/services/product/development-it-innovative-coding-excellence-crafting-client-centric-solutions-1746553614887878656" target="_blank">Upwork</a> and <a href="https://www.fiverr.com/s/zmkog3" target="_blank">Fiverr</a> !</strong>
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ctechsolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ctechsolutions" height="30" width="40" /></a>
