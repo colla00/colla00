@@ -6,11 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ctechsolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ctechsolutions" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexiscollier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexiscollier" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21957441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21957441" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ctechsolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ctechsolutions" height="30" width="40" /></a>
-<a href="https://medium.com/@alexisceo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alexisceo" height="30" width="40" /></a>
 </p>
 <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=colla00&show_icons=true&locale=en" alt="colla00" /></p> <br><br>
