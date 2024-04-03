@@ -1,8 +1,7 @@
 <h1 align="center"> Welcome 👋🏾 </h1>
 <p>
    <p align="center">
-  <strong>💡 I am a problem solver and a lifelong learner; ask me about anything! I am always happy to help on <a href="https://www.upwork.com/freelancers/alexisceo" target="_blank">Upwork</a> !</strong>
-</p>
+  <strong>📚 Dive into the world of health informatics with my Udemy course, <a href="https://www.udemy.com/course/health-informatics-101/" target="_blank">"Health Informatics 101: Digital Health Dynamics"</a> -  a comprehensive introduction to health informatics. Enroll now and  start your journey in transforming healthcare through technology!</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://linkedin.com/in/alexiscollier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexiscollier" height="30" width="40" /></a>
