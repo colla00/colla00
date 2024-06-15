@@ -11,3 +11,17 @@
 
 ![](https://komarev.com/ghpvc/?username=colla00&color=blue&style=for-the-badge)
 
+---
+
+<div align="center">
+    I am passionate about leveraging technology to enhance healthcare systems, ensuring data security and compliance, and fostering a collaborative environment. My goal is to contribute to the development of secure, efficient, and innovative healthcare solutions.
+    Let's connect to explore opportunities for collaboration, share insights on healthcare technology advancements, and work together towards a secure and efficient digital health landscape!
+</div>
+
+### Certifications
+- AWS Certified Cloud Practitioner
+- CompTIA Security+
+- (ISC)² Certified in Cybersecurity
+- AWS DevOps Engineer
+- Cybersecurity Workforce Certification (in progress, Purdue University Northwest)
+
