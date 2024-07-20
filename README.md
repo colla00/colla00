@@ -19,6 +19,8 @@
 </div>
 
 ### Certifications
+- Healthcare IT Support Specialization | The Johns Hopkins University
+- Google Cybersecurity Certificate 
 - AWS Certified Cloud Practitioner
 - CompTIA Security+
 - (ISC)² Certified in Cybersecurity
