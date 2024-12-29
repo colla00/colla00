@@ -11,7 +11,7 @@
    <a href="https://www.credly.com/users/alexis-collier/badges" target="blank">
       <img align="center" src="https://www.svgrepo.com/show/331358/credly.svg" alt="alexiscollier" height="30" width="40" />
    </a>
-   <a href="https://stackoverflow.com/users/{your_user_id}" target="blank">
+    <a href="https://stackoverflow.com/users/28971071/dr-alexis" target="blank">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" height="30" width="40" />
    </a>
 </p>
