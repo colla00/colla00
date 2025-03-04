@@ -32,6 +32,6 @@
 - AWS Certified Cloud Practitioner
 - CompTIA Security+
 - (ISC)² Certified in Cybersecurity
-- AWS DevOps Engineer
-- Cybersecurity Workforce Certification (in progress, Purdue University Northwest)
+- Cybersecurity Workforce Certification (Systems Administration Track) | Purdue University
+- CMMC Overview Course | GRC Academy
 
