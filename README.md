@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome 👋🏾 </h1>
 <p>
    <p align="center">
-  <strong>📚 Dive into the world of health informatics with my Udemy course, <a href="https://www.udemy.com/course/healthinformatics101/" target="_blank">"Intro to Health Informatics 101: Digital Health Dynamics"</a> -  a concise introduction to health informatics. Enroll now and  start your journey in transforming healthcare through technology!</strong>
+  <strong>📚 Dive into the world of health informatics with my Udemy course, <a href="https://www.udemy.com/course/healthinformatics101/" target="_blank">"Health Informatics 101: A Beginner’s Guide to Digital Health"</a> -  a concise introduction to health informatics. Enroll now and  start your journey in transforming healthcare through technology!</strong>
 
 ### Connect with me:
 <p align="left">
