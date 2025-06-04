@@ -27,11 +27,17 @@
 </div>
 
 ### Certifications
+- Certified Ethical Hacker (CEH) | EC-Council
+- Google Cybersecurity Certificate | Coursera
 - Healthcare IT Support Specialization | The Johns Hopkins University
-- Google Cybersecurity Certificate 
-- AWS Certified Cloud Practitioner
-- CompTIA Security+
-- (ISC)² Certified in Cybersecurity
-- Cybersecurity Workforce Certification (Systems Administration Track) | Purdue University
+- AWS Certified Cloud Practitioner | Amazon Web Services
+- CompTIA Security+ | CompTIA
+- (ISC)² Certified in Cybersecurity (CC) | (ISC)²
+- Cybersecurity Workforce – System Administration Track | Purdue University Northwest
+- HI-FIVE: Health Informatics for Innovation, Value & Enrichment | Columbia University
+- Cybersecurity Fundamentals with Capstone | IBM
+- Microsoft Cybersecurity Analyst Specialization | Microsoft
 - CMMC Overview Course | GRC Academy
+- GRC & the Cybersecurity Ecosystem | Infosec
+- Skills for Nursing Informatics Leaders | University of Minnesota
 
