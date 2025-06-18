@@ -1,43 +1,59 @@
-<h1 align="center"> Welcome 👋🏾 </h1>
-<p>
-   <p align="center">
-  <strong>📚 Dive into the world of health informatics with my Udemy course, "Health Informatics 101: A Beginner’s Guide to Digital Health" (Currently Being Updated 😊) - a concise introduction to health informatics. Enroll now and  start your journey in transforming healthcare through technology!</strong>
+<h1 align="center">Welcome 👋🏾</h1>
 
-### Connect with me:
-<p align="left">
-   <a href="https://linkedin.com/in/alexiscollier" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexiscollier" height="30" width="40" />
-   </a>
-   <a href="https://www.credly.com/users/alexis-collier/badges" target="blank">
-      <img align="center" src="https://www.svgrepo.com/show/331358/credly.svg" alt="alexiscollier" height="30" width="40" />
-   </a>
-    <a href="https://stackoverflow.com/users/28971071/dr-alexis" target="blank">
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" height="30" width="40" />
-   </a>
+<p align="center">
+  <strong>📚 Explore digital health with my Udemy course: <br>
+  <em>"Health Informatics 101: A Beginner’s Guide to Digital Health"</em> (Currently Being Updated 😊)<br>
+  A concise, beginner-friendly introduction to health informatics. Enroll now and start your journey to transforming healthcare through technology!
+  </strong>
 </p>
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=colla00&color=blue&style=for-the-badge)
 
 ---
 
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/alexiscollier" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.credly.com/users/alexis-collier/badges" target="_blank">
+    <img align="center" src="https://www.svgrepo.com/show/331358/credly.svg" alt="Credly" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/28971071/dr-alexis" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=colla00&color=blue&style=for-the-badge" alt="GitHub Profile Views" />
+</p>
+
+---
+
+###  About Me
+
 <div align="center">
-    I am passionate about leveraging technology to enhance healthcare systems, ensuring data security and compliance, and fostering a collaborative environment. My goal is to contribute to the development of secure, efficient, and innovative healthcare solutions.
-    Let's connect to explore opportunities for collaboration, share insights on healthcare technology advancements, and work together towards a secure and efficient digital health landscape!
+  I'm passionate about using technology to enhance healthcare systems, protect sensitive data, and drive innovation. With a background spanning cybersecurity, health informatics, and GRC, I aim to build secure, efficient, and equitable digital health solutions.
+
+  Let's connect to share ideas, collaborate on tech-forward initiatives, and lead the next wave of healthcare innovation.
 </div>
 
-### Certifications
-- Certified Ethical Hacker (CEH) | EC-Council
-- Google Cybersecurity Certificate | Coursera
-- Healthcare IT Support Specialization | The Johns Hopkins University
-- AWS Certified Cloud Practitioner | Amazon Web Services
-- CompTIA Security+ | CompTIA
-- (ISC)² Certified in Cybersecurity (CC) | (ISC)²
-- Cybersecurity Workforce – System Administration Track | Purdue University Northwest
-- HI-FIVE: Health Informatics for Innovation, Value & Enrichment | Columbia University
-- Cybersecurity Fundamentals with Capstone | IBM
-- Microsoft Cybersecurity Analyst Specialization | Microsoft
-- CMMC Overview Course | GRC Academy
-- GRC & the Cybersecurity Ecosystem | Infosec
-- Skills for Nursing Informatics Leaders | University of Minnesota
+---
 
+### Certifications
+
+- Certified Ethical Hacker (CEH) — EC-Council  
+- Certified Incident Handler (ECIH) — EC-Council  
+- Google Cybersecurity Certificate — Coursera  
+- Healthcare IT Support Specialization — Johns Hopkins University  
+- AWS Certified Cloud Practitioner — Amazon Web Services  
+- CompTIA Security+ — CompTIA  
+- (ISC)² Certified in Cybersecurity (CC) — (ISC)²  
+- Cybersecurity Workforce: System Administration — Purdue University Northwest  
+- HI-FIVE: Health Informatics for Innovation, Value & Enrichment — Columbia University  
+- Cybersecurity Fundamentals with Capstone — IBM  
+- Microsoft Cybersecurity Analyst Specialization — Microsoft  
+- CMMC Overview Course — GRC Academy  
+- GRC & the Cybersecurity Ecosystem — Infosec  
+- Skills for Nursing Informatics Leaders — University of Minnesota
