@@ -2,8 +2,9 @@
 
 <p align="center">
   <strong>📚 Explore digital health with my Udemy course: <br>
-  <em>"Health Informatics 101: A Beginner’s Guide to Digital Health"</em> (Currently Being Updated 😊)<br>
-  A concise, beginner-friendly introduction to health informatics. Enroll now and start your journey to transforming healthcare through technology!
+  <em>"Health Informatics 101: A Beginner’s Guide to Digital Health"</em><br>
+  A concise, beginner-friendly introduction to health informatics. <br>
+  <a href="https://www.udemy.com/healthinformatics101" target="_blank">👉 Enroll here</a> and start your journey to transforming healthcare through technology!
   </strong>
 </p>
 
