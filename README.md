@@ -29,25 +29,25 @@
 
 ---
 
-### 👩🏾‍💻 About Me
-
 <div align="center">
 
-**Doctor of Health Administration** and **NIH-funded researcher** focused on eliminating algorithmic bias in clinical AI systems.
+### 👩🏾‍💻 About Me
 
-<br>
+<p>
+<strong>Doctor of Health Administration</strong> and <strong>NIH-funded researcher</strong><br>
+focused on eliminating algorithmic bias in clinical AI systems.
+</p>
 
-🏥 **Clinical AI equity research** (NIH Award No. 1OT2OD032581)<br>
-💼 **Founder & CEO**, VitaSignal LLC<br>
-🎓 **Adjunct Professor**, University of North Georgia<br>
-🛡️ **U.S. Army Reserve** Health Information Systems Officer
+<p>
+🏥 <strong>Clinical AI Equity Research</strong> (NIH Award No. 1OT2OD032581)<br>
+💼 <strong>Founder & CEO</strong>, VitaSignal LLC<br>
+🎓 <strong>Adjunct Professor</strong>, University of North Georgia<br>
+🛡️ <strong>U.S. Army Reserve</strong> Health Information Systems Officer
+</p>
 
-<br>
-
-*Code repositories support manuscripts under peer review.*
+<p><em>Code repositories support manuscripts under peer review.</em></p>
 
 </div>
-
 
 ---
 
