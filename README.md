@@ -7,19 +7,25 @@
 
 ---
 
+<div align="center">
+
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://vitasignal.ai" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/VitaSignal-1A1A6E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="VitaSignal" />
-  </a>
-  <a href="https://linkedin.com/in/alexiscollier" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.credly.com/users/alexis-collier/badges" target="_blank">
-    <img align="center" src="https://www.svgrepo.com/show/331358/credly.svg" alt="Credly" height="30" width="40" />
-  </a>
-</p>
+<a href="https://vitasignal.ai" target="_blank">
+  <img src="https://img.shields.io/badge/VitaSignal-1A1A6E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="VitaSignal" />
+</a>
+<a href="https://linkedin.com/in/alexiscollier" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.credly.com/users/alexis-collier/badges" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=colla00&color=1A1A6E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
 
 ---
 
@@ -29,25 +35,19 @@
 
 **Doctor of Health Administration** and **NIH-funded researcher** focused on eliminating algorithmic bias in clinical AI systems.
 
-**Current Work:**
-- 🏥 Clinical AI equity research (NIH Award No. 1OT2OD032581)
-- 💼 Founder & CEO, VitaSignal LLC
-- 🎓 Adjunct Professor, University of North Georgia
-- 🛡️ U.S. Army Reserve Health Information Systems Officer
+<br>
 
-Code repositories support manuscripts under peer review.
+🏥 **Clinical AI equity research** (NIH Award No. 1OT2OD032581)<br>
+💼 **Founder & CEO**, VitaSignal LLC<br>
+🎓 **Adjunct Professor**, University of North Georgia<br>
+🛡️ **U.S. Army Reserve** Health Information Systems Officer
+
+<br>
+
+*Code repositories support manuscripts under peer review.*
 
 </div>
 
----
-
-### 📚 Educational Resources
-
-<p align="center">
-  <strong>Learn health informatics fundamentals:<br>
-  <a href="https://www.udemy.com/healthinformatics101" target="_blank"><em>Health Informatics 101: A Beginner's Guide to Digital Health</em></a>
-  </strong>
-</p>
 
 ---
 
