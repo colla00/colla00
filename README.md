@@ -49,7 +49,6 @@ nursing workload measurement, and responsible AI governance.
 
 <p>
 💼 <strong>Founder and CEO</strong>, VitaSignal LLC<br>
-🎓 <strong>Adjunct Professor</strong>, University of North Georgia<br>
 🛡️ <strong>Commissioned Officer</strong>, U.S. Army Reserve Medical Corps
 </p>
 
