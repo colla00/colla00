@@ -1,4 +1,4 @@
-<h1 align="center">Alexis M. Collier, DHA, MHA 👋🏾</h1>
+<h1 align="center">Alexis Collier, DHA, MHA 👋🏾</h1>
 
 <p align="center">
   <strong>Clinical AI Researcher | AIM-AHEAD CLINAQ Fellow | Founder and CEO, VitaSignal LLC</strong><br>
